@@ -12,3 +12,5 @@ Extensions:
 OneLoneCoder Pixel Game Engine v1.21    https://github.com/OneLoneCoder/olcPixelGameEngine
 
 ScanLineSprite.h written by: Discord contact - teepeedee #4300  
+
+Sprite artist: Discord contact - Franfi™ #6105
