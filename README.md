@@ -1,7 +1,7 @@
 # AOTH
 My first game - Attack Of The Hordes.
 
-# Warning: Sprites won't open unless they are in the same map as .exe
+# Warning: Sprites won't open unless they are in the same directory as .exe
 
 ## About project
 
