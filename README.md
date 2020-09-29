@@ -10,4 +10,4 @@ Used language: C++
 
 Extensions: 
 OneLoneCoder Pixel Game Engine v1.21    https://github.com/OneLoneCoder/olcPixelGameEngine
-ScanLineSprite.h made by: Discord contact - teepeedee #4300  
+  ScanLineSprite.h made by: Discord contact - teepeedee #4300  
